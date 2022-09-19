@@ -1,0 +1,8 @@
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\bin\Debug\Address.exe.config
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\bin\Debug\Address.exe
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\bin\Debug\Address.pdb
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\obj\Debug\Address.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\obj\Debug\Address.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\obj\Debug\Address.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\obj\Debug\Address.exe
+C:\Users\alex\Documents\GitHub\reposforlab2\ООП ЛР2\Address\obj\Debug\Address.pdb
